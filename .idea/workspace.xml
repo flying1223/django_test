@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e242c51d-d5e8-4b56-ad0c-0e1bc450442a" name="Default Changelist" comment="update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hAzKvdbi6NR7Y53FYpbnxVtEyM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunManager">
@@ -27,5 +47,48 @@
       <option name="customRunCommand" value="" />
       <method v="2" />
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e242c51d-d5e8-4b56-ad0c-0e1bc450442a" name="Default Changelist" comment="" />
+      <created>1599468623379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599468623379</updated>
+      <workItem from="1599468645488" duration="119000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1599468747633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599468747633</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2274" y="423" key="Github.ShareDialog" timestamp="1599468678165">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2274" y="423" key="Github.ShareDialog/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1599468678165" />
+    <state x="2224" y="223" key="Github.UntrackedFilesDialog" timestamp="1599468685037">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2224" y="223" key="Github.UntrackedFilesDialog/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1599468685037" />
+    <state x="2001" y="259" key="Vcs.Push.Dialog.v2" timestamp="1599468755598">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2001" y="259" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1599468755598" />
   </component>
 </project>
