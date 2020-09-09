@@ -18,6 +18,6 @@ from django.urls import path
 from fly_app import views as  fly_views
 
 urlpatterns = [
-    path("",fly_views.index),
+    path("app/config",fly_views.index),
     path('admin/', admin.site.urls),
 ]
